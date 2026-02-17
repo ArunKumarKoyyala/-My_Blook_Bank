@@ -1,4 +1,4 @@
-# ltibloodbank
+# mybloodbank
 
 # Setting up Ubuntu Machine
  
